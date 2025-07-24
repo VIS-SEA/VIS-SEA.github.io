@@ -1,30 +1,38 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "1st VIS-SEA Meeting"
 date:   2025-07-23 15:45:35 -0400
-categories: jekyll update
+permalink: /past/first-vis-sea/
 ---
-Katy Williams
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+*By [Katy Williams](https://kawilliams.github.io/)*
 
-Jekyll requires blog post files to be named according to the following format:
+# July 20-22, 2025
 
-`YEAR-MONTH-DAY-title.MARKUP`
+We held our first VIS-SEA meeting on July 20-22 at Emory University, hosted by [Emily Wall](https://emilywall.github.io/). [Emily](https://emilywall.github.io/), [Katy Williams](https://kawilliams.github.io/), [Lane Harrison](https://web.cs.wpi.edu/~ltharrison/?_gl=1*1rsclhf*_gcl_au*MjAwNzU0Mjk0MC4xNzUzMzg0NjMy*_ga*MTAzNDc3NTYzOS4xNzUzMzg0NjMy*_ga_RE35PKQB7J*czE3NTMzODQ2MzEkbzEkZzAkdDE3NTMzODQ2MzIkajYwJGwwJGgw), and [Cindy Xiong Bearfield](https://cyxiong.com/) organized the gathering, which had over 20 attendees participate at various events. 
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Sunday, July 20 we gathered for dinner at The General Muir. The eight guests were able to meet each other and hear where everyone was coming from, ranging from a (now tenured) professor at Clemson to an undergraduate student at Emory.
 
-Jekyll also offers powerful support for code snippets:
+Monday, July 21 was the meat of the meeting. We started the day with an introductions game, followed by splitting into teams to research possibile options for our afternoon activity in the Atlanta area. Suprisingly, the Atlanta-heavy crowd opted for the [CDC Museum](https://www.cdc.gov/museum/index.htm) -- a change-up for the locals, who had already seen the Coca-Cola Museum and the Georgia Aquarium. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+After a coffee break, each person brainstormed ideas for our Unconference. An unconference is where the attendees determine the session topics at the beginning of the meeting -- rather than the organizers prescribing the topics for each session. Lots of ideas came up, ranging from finding research topics to presenting to collaboration.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+![The sticky notes of initial topics, submitted by attendees.](/images/first-vis/initial-topics.JPG)
+*The sticky notes of initial topics, submitted by attendees.*
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+![Emily and Cindy organizing the ideas on sticky notes](/images/first-vis/organizing.JPG)
+*Emily Wall and Cindy Xiong Bearfield organizing the ideas by rearranging sticky notes.*
+
+![The finalized clustering of topics](/images/first-vis/final-topics.JPG)
+*The finalized topics: LLMs and Evaluation, PhD Research, Lab Culture, Design, Collaboration Outside of Our Community, Collaboration Inside of Our Community, Money ($$/Grants), VIS-XP, Career Talk, Future Research Directions, Teaching, Presentation.*
+
+Following lunch, we reconvened into our three parallel sessions for the afternoon:
+1. PhD Research
+2. Career Talks
+3. Presentation
+
+The conversations continued until our afternoon break, when we all shared rides over to the CDC Museum.
+
+After an extensive car search (the museum *is* a government building and is part of the greater CDC complex), we all wandered around the exhibits and enjoyed learning how disease and social factors shaped history. We ended the day with dinner at Srithai: Thai Kitchen and Sushi Bar.
+
+The following day, some folks had to leave so we had a lively, intimate discussion about teaching. We discussed developing and teaching MOOCs (Massive Open Online Courses), remote summer classes, and dynamics in the classroom.
+
