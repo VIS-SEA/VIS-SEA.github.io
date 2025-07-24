@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "1st VIS-SEA Meeting"
+title:  "1st Annual VIS-SEA Meeting"
 date:   2025-07-23 15:45:35 -0400
 permalink: /past/first-vis-sea/
 ---
